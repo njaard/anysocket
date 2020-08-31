@@ -1,0 +1,13 @@
+[package]
+name = "anysocket"
+version = "0.1.0"
+authors = ["Charles Samuels <ks@ks.ax>"]
+edition = "2018"
+description = "Socket types that can be either Tcp or Unix Domain"
+documentation = "https://tiny-http.github.io/tiny-http/tiny_http/index.html"
+keywords = ["uds", "unix", "sockets"]
+license = "BSD-2-Clause"
+repository = "https://github.com/njaard/anysocket"
+readme = "README.md"
+
+[dependencies]
